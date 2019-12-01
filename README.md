@@ -1,4 +1,4 @@
-[![Docker Automated build](https://img.shields.io/docker/automated/makisyu/texlive-2019.svg)](https://hub.docker.com/r/makisyu/texlive-2019/) [![Docker Build Status](https://img.shields.io/docker/build/makisyu/texlive-2019.svg)](https://hub.docker.com/r/makisyu/texlive-2019/)
+[![Docker Build Status](https://img.shields.io/docker/cloud/build/makisyu/texlive-2019.svg)](https://hub.docker.com/r/makisyu/texlive-2019/)
 
 # Dockerfile for TeX Live 2019
 
